@@ -15,7 +15,7 @@ This project applies the EfficientNet-B0 model to the **OCTMNIST** dataset, aimi
 
 | Metric                   | Value                                          |
 | ------------------------ | ---------------------------------------------- |
-| Best Validation Accuracy | **87.0%**                                      |
+| Best Validation Accuracy | **86.2%**                                      |
 | Final Training Accuracy  | ~93.0%                                         |
 | Epochs                   | 30                                             |
 | Dataset                  | 2000 training samples / 500 validation samples |
