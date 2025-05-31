@@ -20,7 +20,7 @@ This project applies the EfficientNet-B0 model to the **OCTMNIST** dataset, aimi
 | Epochs                   | 30                                             |
 | Dataset                  | 2000 training samples / 500 validation samples |
 
-> ![Training Curve](training_curve.png) > _Figure: Accuracy and loss curves over 30 epochs_
+> ![Training Curve](屏幕截图 2025-05-31 180707.png) > _Figure: Accuracy and loss curves over 30 epochs_
 
 ## How to Run
 
